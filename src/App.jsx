@@ -4,7 +4,7 @@ import Hero from './Components/Hero';
 import About from './Components/About';
 import Technologies from './Components/Technologies'
 import { EXPERIENCES } from './constant';
-import Experience from './Components/experience';
+import Experience from './Components/Experience';
 import Project from './Components/Project';
 import Contact from './Components/Contact';
 
